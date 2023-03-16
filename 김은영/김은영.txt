@@ -1,1 +1,3 @@
 Initial Relese
+
+R1 첫번째 수정 완료
